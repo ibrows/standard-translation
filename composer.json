@@ -1,0 +1,12 @@
+{
+    "name": "ibrows/standard-translation",
+    "description": "Standard Translations",
+    "homepage": "http://www.ibrows.ch",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibrows"
+        }
+    ],
+    "minimum-stability": "stable"
+}

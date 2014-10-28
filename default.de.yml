@@ -10,7 +10,11 @@ profile: Profil
 
 close: Schliessen
 continue: Weiter
-
+enabled: Aktiviert
+avatar: Avatar
+'plain password': 'Passwort'
+general: Allgemein
+'user list': Benutzer Liste
 
 #General
 group: Gruppe

@@ -64,7 +64,13 @@ cart: Bestellung
 itemadded: Artikel hinzugefügt.
 CHF: CHF
 chf: CHF
-
+checkout.wizard.summary.navigation: Zusammenfassung
+checkout.wizard.payment_instruction.navigation: Zahlungsart
+checkout.wizard.basket.navigation: Warenkorb
+checkout.wizard.notification.navigation: Abschluss
+checkout.wizard.address.navigation: Versand
+checkout.wizard.payment.navigation: Bezahlung
+loading: laden...
 
 #Product
 

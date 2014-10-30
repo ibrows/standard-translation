@@ -15,13 +15,15 @@ avatar: Avatar
 'plain password': 'Passwort'
 general: Allgemein
 'user list': Benutzer Liste
+'user_list': Benutzer Liste
+'user': Benutzer
 
 #General
 group: Gruppe
 groups: Gruppen
 name: Name
 description: Beschreibung
-id: ID
+id: Id
 position: Position
 title: Titel
 text: Text

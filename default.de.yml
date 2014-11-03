@@ -5,7 +5,7 @@ login: Anmelden
 register: Registrieren
 save: Speichern
 search: Suche
-logout: Ausloggen
+logout: Abmelden
 admin: Admin
 profile: Profil
 

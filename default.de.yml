@@ -13,11 +13,18 @@ close: Schliessen
 continue: Weiter
 enabled: Aktiviert
 avatar: Avatar
-'plain password': 'Passwort'
+plain_password: 'Passwort'
 general: Allgemein
-'user list': Benutzer Liste
-'user_list': Benutzer Liste
-'user': Benutzer
+user_list: Benutzer Liste
+user: Benutzer
+
+credentials_expired: Anmeldedaten abgelaufen
+expired: abgelaufen
+last_login: letztes Anmelden
+locked: gesperrt
+myroles: Rollen
+roles: Rollen
+user_delete: Benutzer löschen
 
 #General
 group: Gruppe

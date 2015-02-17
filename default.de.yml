@@ -11,6 +11,9 @@ profile: Profil
 
 close: Schliessen
 continue: Weiter
+delete: Löschen
+create: Erstellen
+remove: Entfernen
 enabled: Aktiviert
 avatar: Avatar
 plain_password: 'Passwort'

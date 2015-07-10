@@ -1,3 +1,4 @@
+#User Profile / Account
 remember_me: Benutzername merken
 username: Benutzername
 password: Passwort
@@ -8,36 +9,130 @@ search: Suche
 logout: Abmelden
 admin: Admin
 profile: Profil
+account: Konto
 
-close: Schliessen
-continue: Weiter
-delete: Löschen
-create: Erstellen
-remove: Entfernen
-enabled: Aktiviert
 avatar: Avatar
-plain_password: 'Passwort'
+plain_password: Passwort
 general: Allgemein
 user_list: Benutzer Liste
 user: Benutzer
+users: Benutzer
 
-credentials_expired: Anmeldedaten abgelaufen
+credentials: Zugangsdaten
+credentials_expired: Zugangsdaten abgelaufen
+invalid_credentials: Ungültige Zugangsdaten
 expired: abgelaufen
 last_login: letztes Anmelden
-locked: gesperrt
-myroles: Rollen
+myroles: Meine Rollen
 roles: Rollen
 user_delete: Benutzer löschen
 
 #General
+yes: Ja
+no: Nein
 group: Gruppe
 groups: Gruppen
 name: Name
 description: Beschreibung
-id: Id
+id: ID
 position: Position
 title: Titel
+subtitle: Untertitel
+lead: Lead
 text: Text
+author: Autor
+authors: Autoren
+document: Dokument
+documents: Dokumente
+file: Datei
+files: Dateien
+relation: Beziehung
+relations: Beziehungen
+related: Verwandt
+log: Protokoll
+actions: Aktionen
+functions: Funktionen
+value: Wert
+default: Standard
+advertisement: Werbung
+ad: Werbung
+event: Anlass
+view: Ansicht
+comment: Kommentar
+comments: Kommentare
+preview: Vorschau
+thumbnail: Vorschaubild
+description: Beschreibung
+description_short: Kurzbeschreibung
+settings: Einstellungen
+alias: Alias
+label: Label
+content: Inhalt
+slug: Slug
+learn_more: Mehr erfahren
+contact: Kontakt
+Translation: Übersetzung
+Translations: Übersetzungen
+
+
+#Actions
+close: Schliessen
+delete: Löschen
+create: Erstellen
+remove: Entfernen
+enable: Aktivieren
+disable: Deaktivieren
+search: Suchen
+add: Hinzufügen
+buy: Kaufen
+save: Speichern
+edit: Bearbeiten
+action_view: Anzeigen
+cancel: Abbrechen
+dismiss: Verwerfen
+change: Ändern
+switch: Wechseln
+export: Exportieren
+upload: Hochladen
+undo: Rückgängig machen
+action_new: Neu
+action_schedule: Planen
+action_confirm: Bestätigen
+translate: Übersetzen
+
+
+
+#Status
+status: Status
+status_enabled: Aktiviert
+status_disabled: Deaktiviert
+status_locked: gesperrt
+status_saved: gespeichert
+status_draft: Entwurf
+status_published: Publiziert
+status_shipped: Versandt
+status_ordered: Bestellt
+status_ready: Bereit
+status_deleted: Gelöscht
+status_new: Neu
+status_hidden: Verborgen
+status_featured: Hervorgehoben
+status_active: Aktiv
+status_confirmed: Bestätigt
+status_accepted: Akzeptiert
+status_rejected: Abgelehnt
+
+
+
+
+#Navigation and Process
+
+continue: Weiter
+next: Weiter
+previous: Zurück
+back: Zurück
+forward: Weiter
+
 
 #Media
 
@@ -50,6 +145,7 @@ image: Bild
 # Address
 
 address: Adresse
+addresses: Adressen
 firstname: Vorname
 lastname: Nachname
 company: Firma
@@ -74,6 +170,7 @@ cart: Bestellung
 itemadded: Artikel hinzugefügt.
 CHF: CHF
 chf: CHF
+total: Total
 checkout.wizard.summary.navigation: Zusammenfassung
 checkout.wizard.payment_instruction.navigation: Zahlungsart
 checkout.wizard.basket.navigation: Warenkorb
@@ -81,6 +178,10 @@ checkout.wizard.notification.navigation: Abschluss
 checkout.wizard.address.navigation: Versand
 checkout.wizard.payment.navigation: Bezahlung
 loading: laden...
+basket: Warenkorb
+shipping_address: Lieferadresse
+billing_address: Rechnungsadresse
+
 
 #Product
 
@@ -93,15 +194,19 @@ products: Produkte
 article: Artikel
 articles: Artikel
 
-#Most used
-alias: Alias
-active: Aktiv
-label: Label
-content: Inhalt
-value: Wert
-settings: Einstellungen
-slug: Slug
-total: Total
-'terms and conditions': 'AGB'
-yes: Ja
-no: Nein
+
+#Legal Stuff
+
+'terms and conditions': AGB
+terms_and_conditions: AGB
+'terms of use': Nutzungsbedinungen
+terms_of_use: Nutzungsbedingungen
+privacy_statement: Datenschutzerklärung
+disclaimer: Rechtliches
+
+
+#Messages
+success: erfolgreich
+save.success: Erfolgreich gespeichert
+edit.success: Erfolgreich bearbeitet
+error: Fehler
